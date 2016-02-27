@@ -6,7 +6,7 @@ class IndexController extends Controller {
 /*    	$user = D('user');
     	$data = $user->select();
     	dump($data);*/
-		$this->assign('title','shouye');
+		$this->assign('title','首页');
 		$this->show();
     }
 }
