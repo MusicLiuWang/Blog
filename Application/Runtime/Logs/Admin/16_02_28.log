@@ -1,0 +1,12 @@
+[ 2016-02-28T09:46:37+08:00 ] ::1 /Blog/index.php/Admin/index/index%EF%BC%9Fname=1
+ERR: 非法操作:index？name=1
+
+[ 2016-02-28T09:46:53+08:00 ] ::1 /Blog/index.php/Admin/index/index%EF%BC%9Fname=1
+ERR: 非法操作:index？name=1
+
+[ 2016-02-28T09:47:43+08:00 ] ::1 /Blog/index.php/Admin/index/inde?name=1
+ERR: 非法操作:inde
+
+[ 2016-02-28T09:47:52+08:00 ] ::1 /Blog/index.php/Admin/index/inde?name=1
+ERR: 非法操作:inde
+

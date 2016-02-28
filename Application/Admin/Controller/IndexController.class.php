@@ -3,10 +3,9 @@ namespace Admin\Controller;
 use Think\Controller;
 class IndexController extends Controller {
     public function index(){
-/*    	$user = D('user');
+    	$user = D('user');
     	$data = $user->select();
     	dump($data);*/
-		$this->assign('title','shouye');
-		$this->show();
+		/*$this->assign('title','shouye');
     }
 }
